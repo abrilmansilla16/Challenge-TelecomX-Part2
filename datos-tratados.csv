@@ -121,7 +121,7 @@ customerID,Churn,gender,SeniorCitizen,Partner,Dependents,Antiguedad_Meses,PhoneS
 0201-OAMXR,1.0,Female,0,0,0,70,1,Yes,Fiber optic,1,1,1,1,1,1,One year,0,Credit card (automatic),115.55,8127.6,3.8516666666666666
 0203-HHYIJ,1.0,Male,0,0,0,25,1,Yes,No,0,0,0,0,0,0,One year,0,Bank transfer (automatic),25.3,676.35,0.8433333333333334
 0206-OYVOC,0.0,Female,0,1,1,46,1,No,No,0,0,0,0,0,0,Two year,1,Mailed check,19.25,864.2,0.6416666666666667
-0206-TBWLC,0.0,Female,0,1,0,54,1,Yes,Fiber optic,1,1,1,1,1,1,One year,1,Mailed check,114.65,6049.5,3.8216666666666668
+0206-TBWLC,0.0,Female,0,1,0,54,1,Yes,Fiber optic,1,1,1,1,1,1,One year,1,Mailed check,114.65,6049.5,3.821666666666666
 0207-MDKNV,1.0,Female,0,0,0,15,1,No,Fiber optic,1,0,1,1,1,1,Month-to-month,0,Electronic check,105.1,1582.75,3.503333333333333
 0208-BPQEJ,0.0,Female,0,1,1,12,1,No,No,0,0,0,0,0,0,Month-to-month,0,Bank transfer (automatic),19.4,198.1,0.6466666666666666
 0212-ISBBF,0.0,Female,0,0,0,22,0,No,DSL,0,1,0,0,1,1,Month-to-month,1,Electronic check,50.35,1098.85,1.6783333333333335
